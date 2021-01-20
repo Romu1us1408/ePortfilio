@@ -1,0 +1,13 @@
+in this version i added:
+--all the content, mostly text 
+--changed my mind on names of the tabs
+--lengthened the project page
+--smoothed animation
+--made the site work with lower resolution displays
+
+next versions:
+--change photos to my own work
+--add photos on project page
+--link the contact page to my social media and remove non relevant 
+--change browser tab presents and logo
+--maybe host on Azure or AWS
