@@ -4,6 +4,7 @@ in this version i added:
 --lengthened the project page
 --smoothed animation
 --made the site work with lower resolution displays
+--push to github https://github.com/Romu1us1408/ePortfilio-1-25
 
 next versions:
 --change photos to my own work
