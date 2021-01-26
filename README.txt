@@ -5,6 +5,7 @@ in this version i added:
 --smoothed animation
 --made the site work with lower resolution displays
 --made and added tab logo
+--fixed links in contact page
 --push to github https://github.com/Romu1us1408/ePortfilio-1-25
 
 next versions:
