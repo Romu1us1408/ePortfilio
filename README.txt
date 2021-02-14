@@ -1,4 +1,4 @@
-in this version i added:
+added in 1/25/21:
 --all the content, mostly text 
 --changed my mind on names of the tabs
 --lengthened the project page
@@ -8,8 +8,11 @@ in this version i added:
 --fixed links in contact page
 --push to github https://github.com/Romu1us1408/ePortfilio-1-25
 
-next versions:
---change photos to my own work
+added in 02/15/21:
+--changed photos to my own work
 --add photos on project page
+--added discriptions to the projects
 --link the contact page to my social media and remove non relevant 
---maybe host on Azure or AWS
+--hosted on Azure
+--pushed to git https://github.com/Romu1us1408/ePortfilio
+
